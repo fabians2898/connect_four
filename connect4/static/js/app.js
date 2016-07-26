@@ -80,8 +80,6 @@ while(tempx <= 5 && tempx >=0 && tempy <= 6 && tempy >= 0)
 	tempy--;
 }
 
-console.log(temp_list)
-
 for(var i =0; i<temp_list.length; i++)
 {
 	if (temp_list[i] == 1){
